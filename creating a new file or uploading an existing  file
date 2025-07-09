@@ -1,0 +1,5 @@
+echo  "#myFirstProject">> README.md
+git init
+git add README.md
+git commit -m"firstcommit"
+git branch-M main
